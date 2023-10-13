@@ -2,7 +2,7 @@
 
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47pjinvqbm2cxyvscw00ksof2jfk2ar3ild5f7ss9e&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <br>
-<p align="left">- 🌱 I’m currently learning **Ubiquitous Computing**</p>
+<p align="left">- 🌱 I’m currently learning **Pervasive and Mobile Computing Systems**</p>
 <p align="left">- 🌱 Education **Hellenic Open University - Bachelor's degree, Computer Science**</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
