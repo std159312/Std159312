@@ -4,7 +4,7 @@
 <br>
 <br>
 <p align="left">- 🌱 I’m currently learning **Ubiquitous Computing**</p>
-<p align="left">- 🌱 Education **Hellenic Open University - Bachelor's degree,Computer Science**</p>
+<p align="left">- 🌱 Education **Hellenic Open University - Bachelor's degree, Computer Science**</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ioannis-altanopoulos-5b7427135/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ioannis-altanopoulos-5b7427135/" height="30" width="40" /></a>
